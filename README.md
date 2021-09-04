@@ -1,2 +1,5 @@
 # Coding
-Destinado aos projetos, desafios e linguagens de programação que esteja aprendendo
+Destinado aos projetos, desafios sobre linguagens de programação que esteja aprendendo
+
+#[Exercism](https://exercism.org/)
+> Bash
